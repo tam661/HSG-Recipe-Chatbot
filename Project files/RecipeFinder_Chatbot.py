@@ -13,7 +13,7 @@ from nltk.stem.lancaster import LancasterStemmer
 stemmer = LancasterStemmer()
 
 # Define api key for spoonacular database
-api_key = "insert_your_API_key_here"
+api_key = "bb0443de57424393ae0b2078e1be73f5"
 
 # Create empty lists to store the current recipe id, the recipe ids of all recipes retrieved as well as their titles
 currentRecipeID = []
