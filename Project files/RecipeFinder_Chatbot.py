@@ -268,7 +268,6 @@ def getRecipeInstructions(id):
         for sub_step in results[n]['steps']:
             sub_steps = sub_step['step']
             sentenceSplit = sub_steps.split(".")
-
             for s in sentenceSplit:
                 if not s:
                     continue
