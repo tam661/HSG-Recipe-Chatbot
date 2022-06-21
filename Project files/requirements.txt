@@ -1,5 +1,5 @@
 nltk==3.4.5
-numpy==1.17.4
+numpy==1.22.0
 pickleshare==0.7.5
 requests==2.22.0
 tensorflow==1.14.0
