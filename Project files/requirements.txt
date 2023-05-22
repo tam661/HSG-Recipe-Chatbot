@@ -1,6 +1,6 @@
 nltk==3.4.5
 numpy==1.17.4
 pickleshare==0.7.5
-requests==2.22.0
+requests==2.31.0
 tensorflow==1.14.0
 tflearn==0.3.2
